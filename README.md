@@ -32,7 +32,7 @@ Using a real‑world dataset, I performed preprocessing in SQL/Excel to fix inco
 
 ## 🛠️ Tools & Skills
 - **Tableau Desktop**
-- **Data Cleaning (SQL/Excel)**
+- **Data Cleaning (Excel)**
 - **Interactive Dashboard Design**
 - **Data Visualization & Storytelling**
 
